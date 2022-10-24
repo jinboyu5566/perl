@@ -1,0 +1,10 @@
+#!/usr/bin/perl
+$string='jin
+bo
+yu';
+print"$string\n";
+print<<eof;
+jin
+bo
+yu
+eof
