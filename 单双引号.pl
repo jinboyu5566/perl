@@ -1,4 +1,4 @@
 #!/usr/bin/perl
-$a=10;
+$a=7;
 print"$a\n";
 print'$a\n';
